@@ -8,4 +8,4 @@ const webInfo = {
     description: "Ejercicio de the Bridge para el backend",
   };
   
-  module.exports = webInfo;
+  module.exports = webInfo
